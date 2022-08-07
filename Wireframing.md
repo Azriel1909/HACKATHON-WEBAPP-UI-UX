@@ -36,7 +36,6 @@ En esta parte contamos con una diferencia,
     * Tipos de becas de cada usuario
     * Sus estado de becas
 
-
 ## Registro de cuenta
 Primero se requiere un correo y un nombre de usuario.
 A continuación se identificará el tipo de usuario a partir de una selección que hará el propio usuario.
